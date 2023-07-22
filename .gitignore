@@ -3,3 +3,5 @@ terraform/.terraform/*
 terraform/terraform.tfstate
 terraform/terraform.tfstate.backup
 terraform/.terraform.lock.hcl
+certs/cert.pem
+certs/key.pem
