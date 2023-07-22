@@ -1,5 +1,9 @@
 # DevOps Eng @ Bizzabo - Assignment
 
+
+![Architecture blueprint](./assignment_b.drawio.png "Architecture blueprint")
+
+
 ## TL;DR
 
 To deploy the environment, follow these steps:
