@@ -1,0 +1,5 @@
+{
+    "ec2": "describe_instances",
+    "rds": "describe_db_instances",
+    "elb": "describe_load_balancers"
+    }
